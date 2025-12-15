@@ -1,0 +1,13 @@
+@import "../node_modules/bootstrap/dist/css/bootstrap.min.css";
+
+.hero-section {
+  background-image: linear-gradient(to right, rgb(246, 179, 246), rgb(184, 184, 248));
+  padding: 4rem 2rem;
+  text-align: center;
+}
+
+.hero-img {
+  max-width: 100%;
+  border-radius: 1rem;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
